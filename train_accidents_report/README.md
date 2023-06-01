@@ -14,6 +14,8 @@
 > 3. If downloading from source, choose the year of data you would like to report. (The CSV file in this folder is data from 2022)
 > 4. Upload data into PowerBI
 
+## File Preview
+![](etc/Stations.png)
 ![](etc/Stations.png)
 
 ## Credit
