@@ -25,7 +25,7 @@
 ![](etc/Cause.png)
 
 ### Weather
-![](Weather/Cause.png)
+![](etc/Weather.png)
 
 ## Credit
 
