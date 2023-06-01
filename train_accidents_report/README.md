@@ -15,7 +15,7 @@ All train accident data is acquired from [railroads.dot.gov](https://railroads.d
 > 4. Upload data into PowerBI
 
 
-## [Web Dashboard](https://app.powerbi.com/reportEmbed?reportId=d3d451b9-283d-4f57-a32e-594a4eaf66d4)
+## [Web Dashboard](https://app.powerbi.com/groups/me/dashboards/353e5705-f284-4780-9a70-2b6adf4ab8be?ctid=eb095636-1052-4895-952b-1ff9df1d1121&pbi_source=linkShare)
 ### Injuries & Fatalities
 ![](etc/Injuries_&_Fatalities.png)
 
