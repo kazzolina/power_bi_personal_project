@@ -14,6 +14,7 @@
 > 3. If downloading from source, choose the year of data you would like to report. (The CSV file in this folder is data from 2022)
 > 4. Upload data into PowerBI
 
+[embed]https://github.com/kazzolina/power_bi_personal_project/blob/main/train_accidents_report/pdf%20files/Train_Accidents_Report_Project.pdf[/embed]
 
 ## Credit
 
