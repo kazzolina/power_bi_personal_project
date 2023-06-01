@@ -14,7 +14,7 @@
 > 3. If downloading from source, choose the year of data you would like to report. (The CSV file in this folder is data from 2022)
 > 4. Upload data into PowerBI
 
-![pdf_file](pdf_files/Train_Accidents_Report_Project.pdf)
+<iframe title="Train_Accidents_Report_Project" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d3d451b9-283d-4f57-a32e-594a4eaf66d4&autoAuth=true&ctid=eb095636-1052-4895-952b-1ff9df1d1121" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Credit
 
