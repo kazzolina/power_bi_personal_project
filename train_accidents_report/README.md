@@ -15,9 +15,7 @@
 > 4. Upload data into PowerBI
 
 
-Project can also be found [here](https://app.powerbi.com/reportEmbed?reportId=d3d451b9-283d-4f57-a32e-594a4eaf66d4)
-
 ## Credit
 
-All train accident data is from [railroads.dot.gov](https://railroads.dot.gov/safety-data/accident-and-incident-reporting/train-accident-reports/train-accident-reports)
+All train accident data is acquired from [railroads.dot.gov](https://railroads.dot.gov/safety-data/accident-and-incident-reporting/train-accident-reports/train-accident-reports)
 
