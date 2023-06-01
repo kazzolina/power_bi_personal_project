@@ -2,7 +2,7 @@
 
 Train accident data can be found [here](https://railroads.dot.gov/safety-data/accident-and-incident-reporting/train-accident-reports/train-accident-reports)
 
-> **To view project:**
+> **To view my project:**
 > 1. Download [PowerBI Desktop](https://aka.ms/pbidesktopstore) in Windows Store
 > 2. Dowload .pbix file located in this folder
 
