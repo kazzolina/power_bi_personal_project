@@ -16,7 +16,7 @@
 
 ## File Preview
 ### Stations
-![](etc/Stations.png)
+> ![](etc/Stations.png)
 
 ### Train Specs
 ![](etc/Train_Specs.png)
